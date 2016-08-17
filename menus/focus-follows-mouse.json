@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle focus-follows-mouse",
+        "command": "focus-follows-mouse:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "focus-follows-mouse",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "focus-follows-mouse:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
