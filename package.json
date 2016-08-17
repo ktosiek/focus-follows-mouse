@@ -5,9 +5,6 @@
   "description": "Focus the pane under pointer.",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "focus-follows-mouse:toggle"
-  },
   "repository": "https://github.com/ktosiek/focus-follows-mouse",
   "license": "MIT",
   "engines": {

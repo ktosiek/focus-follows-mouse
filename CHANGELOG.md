@@ -1,6 +1,4 @@
 ## NEXT
-* TODO: focus pane under pointer
-* TODO: focus panel under pointer
-* TODO: make sure it works for new and existing pane(ls)
+* focus pane/panel under pointer
 * TODO: delay
 * TODO: settings
