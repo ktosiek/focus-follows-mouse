@@ -1,7 +1,7 @@
 {
   "name": "focus-follows-mouse",
   "main": "./lib/focus-follows-mouse",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Focus the pane under pointer.",
   "keywords": [],
   "repository": "https://github.com/ktosiek/focus-follows-mouse",
